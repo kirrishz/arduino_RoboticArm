@@ -29,8 +29,8 @@ Hold your hand up in front of the camera to control the robot arm. You can use t
 - Middle Finger - middle joint
 - Thumb Finger-base joint
 
-[imgae 1](https://github.com/kirrishz/arduino_RoboticArm/blob/main/img/armpy.png)
-[image_2](https://github.com/kirrishz/arduino_RoboticArm/blob/main/img/cv.gif)
+![imgae 1](https://github.com/kirrishz/arduino_RoboticArm/blob/main/img/armpy.png)
+![image_2](https://github.com/kirrishz/arduino_RoboticArm/blob/main/img/cv.gif)
 
 ### Acknowledgements
 This project was inspired by [CVZONE](https://www.computervision.zone/courses/gesture-controlled-robot-arm/) amazing tutorials on computer vision and robotics.
